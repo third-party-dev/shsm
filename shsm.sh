@@ -111,10 +111,3 @@ if [ "$SUBCOMMAND" = "run" ]; then
   exit 0
 fi
 
-if [ "$SUBCOMMAND" = "init" -a "$#" -eq "0" ]; then
-
-  mkdir bundles
-  mkdir phases
-
-  exit 0
-fi

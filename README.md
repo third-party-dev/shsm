@@ -1,2 +1,6 @@
 # shsm
-Shell Script Implemented Secret Manager
+
+Shell Script Secret Manager
+
+
+
